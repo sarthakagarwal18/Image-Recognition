@@ -7,3 +7,5 @@ For more details, refer [this](http://docs.opencv.org/trunk/d7/d8b/tutorial_py_f
 
      git clone https://github.com/sarthakagarwal18/Image-Recognition.git
      python Face_Recog.py test.jpg
+
+![](/screenshot.png?raw=true)
