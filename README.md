@@ -7,3 +7,8 @@ For more details, refer [this](http://docs.opencv.org/trunk/d7/d8b/tutorial_py_f
 
      git clone https://github.com/sarthakagarwal18/Image-Recognition.git
      python Face_Recog.py test.jpg
+
+![](/screenshot.png?raw=true)
+
+*Note*: The Recognition is done through numerical labels. For example: 2 corresponds to Leonardo DiCaprio. 
+Also, since the training dataset considered here is very small, the recognition can be inaccurate. Adding more training images will increase the accuracy.
